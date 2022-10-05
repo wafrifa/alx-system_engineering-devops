@@ -1,1 +1,1 @@
-Change directory to previous one
+Move to previous directory
