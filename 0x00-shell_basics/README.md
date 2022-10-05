@@ -1,1 +1,1 @@
-This shows contents of directory including hidden files beginnin with a period
+This displays current directory contents
