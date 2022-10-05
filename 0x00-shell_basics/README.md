@@ -1,1 +1,1 @@
-This changes directory to home
+This shows directory contents in a long format
