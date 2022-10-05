@@ -1,1 +1,1 @@
-Type command
+Print file
