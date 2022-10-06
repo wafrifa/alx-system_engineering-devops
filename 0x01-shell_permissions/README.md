@@ -1,1 +1,1 @@
-Change user
+Prints current user
