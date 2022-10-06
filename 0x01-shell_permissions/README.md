@@ -1,1 +1,1 @@
-Set mode
+Directory permissions
