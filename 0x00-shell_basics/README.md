@@ -1,1 +1,1 @@
-Type
+Symlink
