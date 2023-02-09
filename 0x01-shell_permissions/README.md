@@ -1,1 +1,1 @@
-Multiple
+All
