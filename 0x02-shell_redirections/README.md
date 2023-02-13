@@ -1,1 +1,1 @@
-IgnoreGrep
+GrepLetterOnly
