@@ -1,1 +1,1 @@
-LocVar
+GloVar
