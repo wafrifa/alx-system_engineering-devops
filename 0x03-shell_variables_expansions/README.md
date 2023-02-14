@@ -1,1 +1,1 @@
-Divide
+Power
